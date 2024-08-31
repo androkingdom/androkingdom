@@ -12,8 +12,9 @@ I'm a software developer passionate about open-source projects and learning new 
 ## 📫 Contact Me
 - [Email](mailto:androkingdom1@example.com)
 - [LinkedIn](https://www.linkedin.com/in/rishabh-madhwal-577946323)
+- [Anilist](https://www.linkedin.com/in/rishabh-madhwal-577946323)
 <!-- - [Portfolio](https://johndoe.com) -->
 
 ## 🌱 Fun Facts
 - I love coding challenges and want to participate in hackathons atleast one time.
-- When I'm not coding, you can find me readin manga and watching anime.
+- When I'm not coding, you can find me reading manga and watching anime.
