@@ -15,5 +15,5 @@ I'm a software developer passionate about open-source projects and learning new 
 <!-- - [Portfolio](https://johndoe.com) -->
 
 ## 🌱 Fun Facts
-- I love coding challenges and want tpparticipate in hackathons atleast one time.
+- I love coding challenges and want to participate in hackathons atleast one time.
 - When I'm not coding, you can find me readin manga and watching anime.
