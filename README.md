@@ -12,7 +12,7 @@ I'm a software developer passionate about open-source projects and learning new 
 ## 📫 Contact Me
 - [Email](mailto:androkingdom1@example.com)
 - [LinkedIn](https://www.linkedin.com/in/rishabh-madhwal-577946323)
-- [Anilist](https://www.linkedin.com/in/rishabh-madhwal-577946323)
+- [Anilist](https://anilist.co/user/androkingdom)
 <!-- - [Portfolio](https://johndoe.com) -->
 
 ## 🌱 Fun Facts
