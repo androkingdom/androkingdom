@@ -20,9 +20,9 @@ Open to **backend/full-stack engineering roles** and **freelance** for teams bui
 ### GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=androdotdev&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androdotdev&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=androdotdev&theme=dark" width="700" />
   <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androdotdev&theme=dark" height="150" />
   <img src="https://streak-stats.demolab.com?user=androdotdev&theme=dark&hide_border=true" height="150" />
 </div>
 
