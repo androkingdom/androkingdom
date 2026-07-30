@@ -1,53 +1,60 @@
 <div align="center">
 
 # Rishabh Madhwal
-**Full-Stack Engineer** · Building systems that work, not just run · Ghaziabad, IN
+**`androdotdev`** · Full-stack systems, developer tooling, AI · Ghaziabad, IN
 
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/androdotdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-madhwal-577946323)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/androdotdev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/androdotdev)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabh.madhwal.dev@gmail.com)
 
 </div>
 
 ---
 
-### What I do
+I build **developer tools and infrastructure** — the layer between code and what people actually see. Shareable HTML artifacts, JSON-to-diagram engines, AI-agent desktop clients, and the plumbing that makes them work.
 
-I build full-stack systems — backends, APIs, AI integrations, and the tooling around them. The kind of work where architecture decisions matter and "it works on my machine" isn't good enough.
-
-Open to **backend engineering roles** and **freelance projects** for founders and small teams who need real systems built, not just prototypes.
+Open to **backend/full-stack engineering roles** and **freelance** for teams building real systems, not prototypes.
 
 ---
 
 ### Stack
 
-**Languages** — TypeScript · JavaScript · Python · C++
+**Core** — TypeScript · Next.js · React · Node.js · Python
 
-**Backend** — Node.js · Express · MongoDB · MySQL · Redis · Neo4j · Prisma
+**Data** — PostgreSQL · Drizzle ORM · SQLite · Prisma
 
-**Frontend** — React · Next.js · Redux
+**Infra** — Vercel · Neon · Backblaze B2 · Linux · Cloudflare
 
-**AI / Tooling** — Gemini API · LLM orchestration · CLI agents
-
-**Infra** — Vercel · Git · Linux
+**AI** — OpenRouter · Gemini API · LLM orchestration · MCP tooling
 
 ---
 
 ### Projects
 
-**JSONFlow** · [npm](https://www.npmjs.com/package/@andro.dev/jsonflow-engine) · [demo](https://jsonflow.rishabhmadhwal.qzz.io/) · [repo](https://github.com/androdotdev/json-flow)
+**PostHTML** · [web](https://posthtml.vercel.app) · [repo](https://github.com/androdotdev/plantodo) · [npm](https://www.npmjs.com/package/@androff/posthtml-cli)
 
-Renderer-agnostic JSON diagram compiler. A class-based engine parses and validates JSON schema via Zod, outputs graph data that any renderer can consume — currently Cytoscape, swappable by design. The engine (`@andro.dev/jsonflow-engine`) is published as a standalone npm package.
+Shareable HTML platform for developers and AI agents. Upload HTML via CLI, API, or MCP — get a short URL. Server-side rendering, template interpolation with `{{placeholders}}`, private post capability tokens, and a Postgres backend. Ships with a CLI (`@androff/posthtml-cli`) and MCP tools for agent-native workflows.
 
-**androincli** · [PyPI](https://pypi.org/project/androincli/) · [repo](https://github.com/androdotdev/cli-agent)
+**json-flow** · [engine](https://www.npmjs.com/package/@andro.dev/jsonflow-engine) · [repo](https://github.com/androdotdev/json-flow)
 
-AI-powered CLI agent built on the Gemini API with a Textual TUI. Handles file ops, shell commands, and terminal chat. Built to explore tool orchestration and agent planning loops — not polished, but real.
+Schema-first JSON diagram engine. Zod-validated graph compiler that transforms structured data into interactive flow/sequence/graph diagrams. Renderer-agnostic (Cytoscape by default), fully typed, published as a standalone npm package.
 
-**Carder** · [live](https://carderfoi.vercel.app)
+**cardfoi** · [live](https://cardfoi.vercel.app) · [repo](https://github.com/androdotdev/cardfoi)
+
+Session-owned developer profile cards. 8 visual templates, work history entries, Cloudinary media uploads, and capability-token sharing — no account required to view. Designed for the AI-native portfolio workflow.
+
+**Androdex** · [repo](https://github.com/androdotdev/androdex)
+
+OpenCode desktop client built with Electron + Zustand + React. Spawns AI coding agents as child processes with a rich chat UI, session management, and git-aware diffs. SDK v2 compatible, pnpm monorepo.
+
+**votesys** · [demo](https://votesys.vercel.app)
+
+Online voting system MVP — anonymous ballots, admin election management, auto-close, role-based access. Next.js + Drizzle + Better Auth.
 
 ---
 
 ### Principles
 
-**Clarity over cleverness. Shipping over perfection. Systems over shortcuts.**
+**Clarity over cleverness.** Architecture that's well-reasoned, not just-working. No half-measures.
+
+Systems that ship, not ones that stall in review.
