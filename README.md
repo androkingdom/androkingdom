@@ -1,7 +1,7 @@
 <div align="center">
 
 # Rishabh Madhwal
-**`androdotdev`** · Full-stack systems, developer tooling, AI · Ghaziabad, IN
+**`androdotdev`** · Full-stack Systems & Developer Tooling · Ghaziabad, IN
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/androdotdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-madhwal-577946323)
@@ -11,21 +11,31 @@
 
 ---
 
-I build **developer tools and infrastructure** — the layer between code and what people actually see. Shareable HTML artifacts, JSON-to-diagram engines, AI-agent desktop clients, and the plumbing that makes them work.
+I build **developer tools and infrastructure** — the layer between code and what ships. Shareable HTML artifacts, JSON-to-diagram engines, AI-agent desktop clients, and the plumbing that makes them work.
 
-Open to **backend/full-stack engineering roles** and **freelance** for teams building real systems, not prototypes.
+Open to **backend/full-stack engineering roles** and **freelance** for teams building real systems.
+
+---
+
+### GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=androdotdev&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=androdotdev&layout=compact&theme=dark&hide_border=true" height="150" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=androdotdev&theme=dark&hide_border=true" height="150" />
+</div>
 
 ---
 
 ### Stack
 
-**Core** — TypeScript · Next.js · React · Node.js · Python
-
-**Data** — PostgreSQL · Drizzle ORM · SQLite · Prisma
-
-**Infra** — Vercel · Neon · Backblaze B2 · Linux · Cloudflare
-
-**AI** — OpenRouter · Gemini API · LLM orchestration · MCP tooling
+| Area | Tools |
+|---|---|
+| **Core** | TypeScript · Next.js · React · Node.js · Python |
+| **Data** | PostgreSQL · Drizzle ORM · SQLite · Prisma |
+| **Infra** | Vercel · Neon · Backblaze B2 · Linux · Cloudflare |
+| **AI** | OpenRouter · Gemini API · LLM orchestration · MCP tooling |
 
 ---
 
